@@ -33,12 +33,3 @@ npm run build
 ```sh
 npm run lint
 ```
-
-### 学习笔记
-、、、页面全屏背景
-{
-  position: fixed;//脱离文档流，相对于视口固定定位
-  width: 100%;//宽度占满视口宽度
-  height: 100%;//高度占满视口高度
-  background-image: url(../../assets/images/true.png);//背景图片
-}
