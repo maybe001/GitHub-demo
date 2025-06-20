@@ -1,4 +1,4 @@
-<b>demo参照GitHub：HongqingCao</b>
+<b>demo参照GitHub：<a ref="https://github.com/HongqingCao/GitDataV">HongqingCao</a></b>
 
 # vue-view
 
